@@ -310,7 +310,6 @@ export default class AppIntro extends Component {
       pages = pageArray.map((page, i) => this.renderBasicSlidePage(i, page));
     } else {
       if (Platform.OS === 'ios') {
-        pages = childrens.map((children, i) => this.renderChild(children, i, i));
       } else {
         androidPages = childrens.map((children, i) => {
           const { transform } = this.getTransform(i, -windowsWidth / 3 * 2, 1);
