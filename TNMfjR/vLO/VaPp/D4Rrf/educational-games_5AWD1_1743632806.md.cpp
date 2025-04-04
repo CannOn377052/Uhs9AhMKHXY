@@ -472,7 +472,6 @@ Do they try and kill you, like on TV?
 Some of them. But some of them don't.
 How'd you get back?
 Poodle.
-You did it, and I'm glad. You saw whatever you wanted to see.
 You had your "experience." Now you can pick out yourjob and be normal.
 Well...
 Well?
