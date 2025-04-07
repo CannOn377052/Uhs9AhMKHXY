@@ -1331,7 +1331,6 @@ It is bee-approved. Don't forget these.
 Milk, cream, cheese, it's all me.  And I don't see a nickel!
 Sometimes I just feel like a piece of meat!
 I had no idea.
-Barry, I'm sorry.
 Have you got a moment?
 Would you excuse me?
 My mosquito associate will help you.
